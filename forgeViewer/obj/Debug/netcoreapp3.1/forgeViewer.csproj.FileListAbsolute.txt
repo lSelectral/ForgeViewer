@@ -23,3 +23,5 @@ C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\bin\Debug\netcoreapp3.1\N
 C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\obj\Debug\netcoreapp3.1\forgeViewer.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\obj\Debug\netcoreapp3.1\forgeViewer.dll
 C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\obj\Debug\netcoreapp3.1\forgeViewer.pdb
+C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\obj\Debug\netcoreapp3.1\forgeViewer.Properties.Resources.resources
+C:\Users\Selectra\source\repos\forgeViewer\forgeViewer\obj\Debug\netcoreapp3.1\forgeViewer.csproj.GenerateResource.cache

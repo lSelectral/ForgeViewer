@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Selectra\\source\\repos\\ForgeViewer\\forgeViewer\\forgeViewer.csproj": {}
+    "C:\\Users\\Selectra\\source\\repos\\forgeViewer\\forgeViewer\\forgeViewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Selectra\\source\\repos\\ForgeViewer\\forgeViewer\\forgeViewer.csproj": {
+    "C:\\Users\\Selectra\\source\\repos\\forgeViewer\\forgeViewer\\forgeViewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Selectra\\source\\repos\\ForgeViewer\\forgeViewer\\forgeViewer.csproj",
+        "projectUniqueName": "C:\\Users\\Selectra\\source\\repos\\forgeViewer\\forgeViewer\\forgeViewer.csproj",
         "projectName": "forgeViewer",
-        "projectPath": "C:\\Users\\Selectra\\source\\repos\\ForgeViewer\\forgeViewer\\forgeViewer.csproj",
+        "projectPath": "C:\\Users\\Selectra\\source\\repos\\forgeViewer\\forgeViewer\\forgeViewer.csproj",
         "packagesPath": "C:\\Users\\Selectra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Selectra\\source\\repos\\ForgeViewer\\forgeViewer\\obj\\",
+        "outputPath": "C:\\Users\\Selectra\\source\\repos\\forgeViewer\\forgeViewer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
