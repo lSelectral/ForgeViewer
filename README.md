@@ -10,9 +10,9 @@ Allowed to view app types are (REVIT, 3DS Max, Autocad, Inventor and Fusion 360)
 
 ## Here is the snapshot of app  
 
-![alt text](/forgeViewer/screenshots/Full_Model "View your model")
-![alt text](/forgeViewer/screenshots/Properties "View Properties of Elements")
-![alt text](/forgeViewer/screenshots/2d3d "2D and 3D View")
-![alt text](/forgeViewer/screenshots/Sheet "Sheet Tool")
-![alt text](/forgeViewer/screenshots/Measurement "Measurement Tool")
-![alt text](/forgeViewer/screenshots/Section "Section Cut Toool")
+![alt text](/forgeViewer/screenshots/Full_Model.png "View your model")
+![alt text](/forgeViewer/screenshots/Properties.png "View Properties of Elements")
+![alt text](/forgeViewer/screenshots/2d3d.png "2D and 3D View")
+![alt text](/forgeViewer/screenshots/Sheet.png "Sheet Tool")
+![alt text](/forgeViewer/screenshots/Measurement.png "Measurement Tool")
+![alt text](/forgeViewer/screenshots/Section.png "Section Cut Toool")
